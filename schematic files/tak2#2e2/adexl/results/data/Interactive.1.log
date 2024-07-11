@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat May 18 14:18:34 2024 
+Best design point: 1
+Design specs: 
+	rev:tak2.2:1	corner	Nominal - 
+Design parameters: 
+	l		10u
+	M		4
+	c		5
+	vout		500m
+
+Interactive.1
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.1 completed. 
+Current time: Sat May 18 14:18:37 2024 

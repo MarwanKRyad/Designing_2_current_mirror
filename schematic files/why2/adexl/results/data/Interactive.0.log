@@ -1,0 +1,22 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat May 18 13:55:36 2024 
+Best design point: 1
+Design specs: 
+	rev:why2:1	corner	Nominal - 
+	error		Error	No
+	Iout		Error	No
+	Vgs0		Error	No
+	Rout		Error	No
+	Vdsat		Error	No
+Design parameters: 
+	C		1
+	L		50u
+	M		40
+	Vout		500m
+
+Interactive.0
+Number of points completed: 1
+Number of simulation errors: 5
+Interactive.0 completed. 
+Current time: Sat May 18 13:55:40 2024 
